@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/redmine-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/redmine-app/static/js/main.88dacf5d.chunk.js",
+    "main.js.map": "/redmine-app/static/js/main.88dacf5d.chunk.js.map",
+    "runtime~main.js": "/redmine-app/static/js/runtime~main.7c39e9d3.js",
+    "runtime~main.js.map": "/redmine-app/static/js/runtime~main.7c39e9d3.js.map",
+    "static/js/2.d158a0f2.chunk.js": "/redmine-app/static/js/2.d158a0f2.chunk.js",
+    "static/js/2.d158a0f2.chunk.js.map": "/redmine-app/static/js/2.d158a0f2.chunk.js.map",
+    "index.html": "/redmine-app/index.html",
+    "precache-manifest.91a0fa974a2a44b93f75d6a23fa31b98.js": "/redmine-app/precache-manifest.91a0fa974a2a44b93f75d6a23fa31b98.js",
+    "service-worker.js": "/redmine-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/redmine-app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/redmine-app/static/media/logo.5d5d9eef.svg"
+  }
+}
