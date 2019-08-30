@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/redmine-app/precache-manifest.91a0fa974a2a44b93f75d6a23fa31b98.js"
+  "/redmine-app/precache-manifest.038b8a9c30f22924e48c5dab8b5d2138.js"
 );
 
 self.addEventListener('message', (event) => {
